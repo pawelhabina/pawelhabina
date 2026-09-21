@@ -7,7 +7,7 @@
 
 ## 🚀 O mnie
 
-Jestem absolwentem technikum informatycznego i szukam pierwszej pracy w IT.
+Jestem absolwentem technikum informatycznego i pracuje w Parsifal s.c.
 Najbardziej interesuje mnie administracja systemami, Linux, sieci oraz infrastruktura.
 
 W wolnym czasie rozwijam własny **homelab oparty o Proxmox VE**, gdzie:
@@ -53,7 +53,7 @@ W wolnym czasie rozwijam własny **homelab oparty o Proxmox VE**, gdzie:
 ### 🗄️ Bazy danych i web
 
 * MySQL
-* podstawy: HTML, CSS, JavaScript, PHP, Python
+* podstawy: HTML, CSS, JavaScript, React, PHP, Python
 
 ### 🧰 Narzędzia
 
@@ -78,7 +78,7 @@ W wolnym czasie rozwijam własny **homelab oparty o Proxmox VE**, gdzie:
 
 🔹 Serwery gier
 
-* Minecraft (Paper, Fabric, Forge, Proxy, Limbo), CS2, ARK
+* Minecraft (Paper, Fabric, Forge, Proxy, Limbo), CSGO, CS2, ARK
 * konfiguracja pluginów/modów i optymalizacja wydajności
 
 🔹 Praktyki zawodowe
